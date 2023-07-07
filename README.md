@@ -1,2 +1,2 @@
-# senha
-Criação de senhas
+# Senha
+Criação de senhas aleatórias.
